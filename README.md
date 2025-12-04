@@ -59,10 +59,14 @@ Kami tidak hanya menggunakan list biasa. Demi performa maksimal, kami menerapkan
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi di komputer Anda:
 
 ### 1. Clone Repository
-```bash
+
+``'bash
+
 git clone [https://github.com/mokhammadbahauddin/Oceanova.git](https://github.com/mokhammadbahauddin/Oceanova.git)
 cd Oceanova
-2. Install Dependensi (Library)
+'''
+
+### 2. Install Dependensi (Library)
 Pastikan Python sudah terinstal, lalu jalankan perintah ini di terminal:
 
 
